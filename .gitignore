@@ -1,0 +1,8 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+racecar/
+.vscode/
+"@ | Set-Content .gitignore
